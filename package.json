@@ -36,6 +36,7 @@
   ],
   "files": [
     "dist",
+    "scripts/run-parallel.mjs",
     "scripts/postinstall.cjs",
     "scripts/setup-chrome-mcp.mjs"
   ],
